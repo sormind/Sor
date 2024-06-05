@@ -13,6 +13,7 @@ The SOR Agent Framework is a comprehensive solution designed to support complex 
 - **Custom AI Creation**: Allows for the development of GPT-like AI models with extensive customization options.
 - **Data-Driven AI Development**: Integrates extensive data insights for practical and effective AI solutions.
 - **Scalability**: Designed for modularity and scalability, supporting horizontal and vertical scaling.
+- **Environment Management**: Access and create new environments for flexible and customized agent operations.
 
 #### System Requirements
 
@@ -32,6 +33,7 @@ The SOR Agent Framework is a comprehensive solution designed to support complex 
 - **Agent Management Modules**: Tools for managing the lifecycle of AI agents.
 - **Communication Interfaces**: Systems to enable efficient internal and external communication.
 - **Data Processing Units**: Components for handling and processing data within the framework.
+- **Environment Management**: Features for accessing existing environments or creating new ones to tailor agent operations.
 
 #### Development Environment
 
@@ -71,6 +73,12 @@ The SOR Agent Framework is a comprehensive solution designed to support complex 
 - **Internal Communication**: Message passing systems or shared memory.
 - **External Communication**: RESTful APIs, secure data handling protocols.
 - **Real-Time Data Handling**: Streaming data technologies for optimal performance.
+
+#### Environment Management
+
+- **Access Existing Environments**: Utilize built-in tools to integrate with existing environments seamlessly.
+- **Create New Environments**: Provision and configure new environments tailored to specific agent operations and requirements.
+- **Environment Customization**: Adjust and personalize environments to optimize agent performance and application suitability.
 
 #### Deployment
 
