@@ -1,0 +1,23 @@
+{
+    "models": {
+      "default": "openai_gpt4o",
+      "openai_gpt4o": {
+        "type": "api",
+        "provider": "openai",
+        "api_key_env": "OPENAI_API_KEY",
+        "model_name": "gpt-4o"
+      },
+      "anthropic_claude": {
+        "type": "api",
+        "provider": "anthropic",
+        "api_key_env": "ANTHROPIC_API_KEY",
+        "model_name": "claude-3"
+      },
+      "local_gpt2": {
+        "type": "local",
+        "provider": "huggingface",
+        "model_name": "gpt2"
+      }
+    }
+  }
+  
